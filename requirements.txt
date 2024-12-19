@@ -1,5 +1,5 @@
-pyjwt==2.7.0
-GitPython==3.1.31
-requests==2.30.0
-cryptography==1.15.1
-boto3==1.26.141
+pyjwt==2.10.1
+GitPython==3.1.43
+requests==2.32.3
+cryptography==44.0.0
+boto3==1.35.84
