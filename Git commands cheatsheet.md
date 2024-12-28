@@ -1,4 +1,9 @@
 ## Git Commands
+### Set Name and email for git commits: 
+```
+git config --global user.name "<Name>"
+git config --global user.email "<email>"
+```
 ### Creating a Branch from existing: 
 ```
 git checkout -b <branch_name>
